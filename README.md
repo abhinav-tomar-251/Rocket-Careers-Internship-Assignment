@@ -1,7 +1,7 @@
-## Rocket-Careers-Internship-Assignment
+# Rocket-Careers-Internship-Assignment
 
 Frontend Developer Internship Task 
 
-# Live Demo link
+## Live Demo link
 
 Check here: https://rocket-careers-internship-abhinav-tomar-assignment.vercel.app/
